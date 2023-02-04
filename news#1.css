@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+body {
+    font-family: 'Days One', sans-serif;
+    text-align: center;
+}
+::-moz-selection{
+    background-color:#ffee38;
+    color:#191919
+}
+
+::selection{
+    background-color:#ffee38;
+    color:#191919
+}
