@@ -12,3 +12,7 @@ body {
     background-color:#ffee38;
     color:#191919
 }
+body,html {
+    background: #b0d6ff;
+    height:100%;
+  } 
